@@ -1,2 +1,0 @@
-# snackgame
-By Aditya Kumar
