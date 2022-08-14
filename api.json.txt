@@ -1,0 +1,37 @@
+{
+  "status": "ok",
+  "total": 10,
+  "lists": [
+    {
+      "Title": "Marvel's Studio",
+      "Description": "Here you will get all movies of Marvel's Studio.",
+      "Link": "https://www.facebook.com",
+      "Thumbnail": "https://cdn.wallpapersafari.com/36/26/NmwIaD.jpg"
+    },
+      {
+        "Title": "Warner Bros",
+        "Description": "Here you will get all movies of Warner Bros.",
+        "Link": "https://www.instagram.com",
+        "Thumbnail": "https://cdn.wallpapersafari.com/78/74/mOAW5f.jpg"
+      },
+      {
+        "Title": "Flash",
+        "Description": "Here you will get all movies of Flash.",
+        "Link": "https://www.twitter.com",
+        "Thumbnail": "https://images4.alphacoders.com/651/thumbbig-651351.webp"
+      },
+      {
+        "Title": "Bollywood",
+        "Description": "Here you will get all movies of Bollywood.",
+        "Link": "https://www.google.com",
+        "Thumbnail": "https://www.bollywoodhungama.com/wp-content/uploads/2016/10/Bramsatra-Banner.jpg"
+      },
+      {
+        "Title": "South",
+        "Description": "Here you will get all movies of South.",
+        "Link": "https://www.bing.com",
+        "Thumbnail": "https://stat2.bollywoodhungama.in/wp-content/uploads/2019/03/RRR-4-800x600.jpg"
+      }
+    ]
+
+}
